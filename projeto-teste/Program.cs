@@ -6,8 +6,10 @@ namespace projeto_teste
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Olá Mundo!");
+            Console.WriteLine("Hello World!-EN");
+            Console.WriteLine("Olá Mundo!-PT");
+            Console.WriteLine("Hola Mundo!-ES");
+
         }
     }
 }
